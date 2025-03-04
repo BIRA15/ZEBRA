@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZEBRA</title>
+</head>
+
+<body style="text-align: center; background-color: #f0d8bb;">
+    <h1>Preguiça-comum</h1>
+    <img src="zebra.png" alt="Aqui tem uma imagem de uma ZEBRA">
+    <p style="padding: 25px 200px;">As zebras são mamíferos que pertencem à família dos cavalos, os equídeos, nativos da África central e do sul</p>
+        <a href="https://pt.wikipedia.org/wiki/Zebra" target="_blank">Wiki</a><br>
+        <span>Forum tematico</span>
+</body>
+
+</html>
